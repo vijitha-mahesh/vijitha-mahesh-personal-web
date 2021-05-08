@@ -53,6 +53,24 @@
         align-items: center;
       }
 
+      .social {
+        height: 50px;
+        display: flex;
+
+        @include mobile {
+          justify-content: center;
+          width: 100vh;
+        }
+
+        .links {
+          margin-right: 10px;
+          cursor: pointer;
+          img {
+            height: 90%;
+          }
+        }
+      }
+
       h1 {
         font-size: 60px;
         margin: 10px 0;
@@ -90,10 +108,14 @@
         }
       }
     }
-    a {
+    .bottomArrow {
       position: absolute;
       bottom: 10px;
       left: 40%;
+
+      @include mobile {
+        left: 47%;
+      }
 
       img {
         width: 30px;
