@@ -3,6 +3,6 @@
 
 ## http://vijitha.me/
 
-Built this with help of tutorials and following other internet resources.
+Built this with help of tutorials and other internet resources.
 
 ### `take this, customize and build your own portfolio web site`
