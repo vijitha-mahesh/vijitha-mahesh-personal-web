@@ -25,26 +25,35 @@
         text-decoration: none;
         color: inherit;
         margin-right: 40px;
+        @include mobile {
+          display: none;
+        }
       }
       .itemContainer {
         display: flex;
         align-items: center;
         margin-left: 30px;
 
-        @include mobile {
-          display: none;
-        }
-
         .icon {
           font-size: 18px;
           margin-right: 5px;
+          @include mobile {
+            display: none;
+          }
         }
         span {
           font-style: 15px;
           font-weight: 500;
+          @include mobile {
+            display: none;
+          }
         }
 
-        button {
+        a {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          text-decoration: none;
           width: 150px;
           height: 30px;
           color: white;
@@ -54,6 +63,11 @@
           font-weight: 500;
           cursor: pointer;
 
+          @include mobile {
+            font-size: 10px;
+            margin-right: 20px;
+            width: 80px;
+          }
           &:focus {
             outline: none;
           }

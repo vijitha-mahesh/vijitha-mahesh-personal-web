@@ -18,9 +18,9 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
             <span>vijithamaheshp@gmail.com</span>
           </div>
           <div className="itemContainer">
-            <button href="assets/VijithaMahesh_CV.pdf" download>
+            <a href="assets/VijithaMahesh_CV.pdf" download>
               download my CV
-            </button>
+            </a>
           </div>
         </div>
         <div className="right">
