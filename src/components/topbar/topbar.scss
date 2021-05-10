@@ -68,8 +68,8 @@
             margin-right: 20px;
             width: 80px;
           }
-          &:focus {
-            outline: none;
+          &:hover {
+            background-color: $mainColor;
           }
         }
       }
