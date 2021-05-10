@@ -1,66 +1,21 @@
 export const featuredPortfolio = [
 {
     id:1,
-    title:"feature title",
-    img:"https://cdn57.androidauthority.net/wp-content/uploads/2016/04/Google-Travel-app-beta.jpg"
+    title:"Advanced wood smoothing machine",
+    img:"assets/Portfolio/Featured/Final_Product.PNG"
 },
 {
     id:2,
-    title:"feature title",
+    title:"WATERrhythem Lifestyle Application",
     img:"https://cdn57.androidauthority.net/wp-content/uploads/2016/04/Google-Travel-app-beta.jpg"
-},
-{
-    id:3,
-    title:"feature title",
-    img:"https://cdn57.androidauthority.net/wp-content/uploads/2016/04/Google-Travel-app-beta.jpg"
-},
-{
-    id:4,
-    title:"feature title",
-    img:"https://cdn57.androidauthority.net/wp-content/uploads/2016/04/Google-Travel-app-beta.jpg"
-},
-{
-    id:5,
-    title:"feature title",
-    img:"https://cdn57.androidauthority.net/wp-content/uploads/2016/04/Google-Travel-app-beta.jpg"
-},
-{
-    id:6,
-    title:"feature title",
-    img:"https://cdn57.androidauthority.net/wp-content/uploads/2016/04/Google-Travel-app-beta.jpg"
-},
+} 
 ];
 
 export const webPortfolio = [
 {
     id:1,
-    title:"web title",
-    img:"https://www.uxweb-design.com/wp-content/uploads/2019/10/Web-design-1.jpg"
-},
-{
-    id:2,
-    title:"web title",
-    img:"https://www.uxweb-design.com/wp-content/uploads/2019/10/Web-design-1.jpg"
-},
-{
-    id:3,
-    title:"web title",
-    img:"https://www.uxweb-design.com/wp-content/uploads/2019/10/Web-design-1.jpg"
-},
-{
-    id:4,
-    title:"web title",
-    img:"https://www.uxweb-design.com/wp-content/uploads/2019/10/Web-design-1.jpg"
-},
-{
-    id:5,
-    title:"web title",
-    img:"https://www.uxweb-design.com/wp-content/uploads/2019/10/Web-design-1.jpg"
-},
-{
-    id:6,
-    title:"web title",
-    img:"https://www.uxweb-design.com/wp-content/uploads/2019/10/Web-design-1.jpg"
+    title:"Charleys food delivery system United arab Emirates",
+    img:"assets/portfolio/web/charleys.png"
 },
 ];
 
@@ -102,34 +57,30 @@ export const mobilePortfolio = [
 export const uiPortfolio = [
 {
     id:1,
-    title:"ui title",
-    img:"https://cdn57.androidauthority.net/wp-content/uploads/2016/04/Google-Travel-app-beta.jpg"
+    title:"Play It Now",
+    img:"assets/Portfolio/UiUx/playItNow.jpg"
 },
 {
     id:2,
-    title:"ui title",
-    img:"https://cdn57.androidauthority.net/wp-content/uploads/2016/04/Google-Travel-app-beta.jpg"
+    title:"Portfolio",
+    img:"assets/Portfolio/UiUx/portfolio.jpg"
 },
 {
     id:3,
-    title:"ui title",
-    img:"https://cdn57.androidauthority.net/wp-content/uploads/2016/04/Google-Travel-app-beta.jpg"
+    title:"Wireframe To Design",
+    img:"assets/Portfolio/UiUx/WireFrameToDesign.jpg"
 },
 {
     id:4,
-    title:"ui title",
-    img:"https://cdn57.androidauthority.net/wp-content/uploads/2016/04/Google-Travel-app-beta.jpg"
+    title:"Whatsapp Re-Design",
+    img:"assets/Portfolio/UiUx/whatsappReDesign.jpg"
 },
 {
     id:5,
-    title:"ui title",
-    img:"https://cdn57.androidauthority.net/wp-content/uploads/2016/04/Google-Travel-app-beta.jpg"
+    title:"Image Edit Tool",
+    img:"assets/Portfolio/UiUx/imageEditTool.PNG"
 },
-{
-    id:6,
-    title:"ui title",
-    img:"https://cdn57.androidauthority.net/wp-content/uploads/2016/04/Google-Travel-app-beta.jpg"
-},
+
 ];
 
 export const graphicPortfolio = [
