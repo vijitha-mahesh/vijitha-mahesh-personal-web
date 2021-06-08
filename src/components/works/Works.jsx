@@ -21,7 +21,7 @@ export default function Works() {
         },
          {
             id:"3",
-            title:"Graphic Design",
+            title:"Graphic and Video",
             icon:"assets/writing.png",
             desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur quaerat iusto maiores, animi, aliquam quis porro doloribus, quae aperiam illum dignissimos cumque commodi voluptate optio fugiat nulla totam! Et, quia!" ,
             img:"https://image.freepik.com/free-photo/wired-computer-mouse-laptop-are-isolated-yellow-background-flat-lay-template-design_245974-1398.jpg"
