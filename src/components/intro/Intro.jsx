@@ -17,6 +17,14 @@ export default function Intro() {
 
   return (
     <div className="intro" id="intro">
+        <video
+        className="videoBG"
+          autoPlay="autoplay"
+          loop="loop"
+          muted>
+          {/* TODO make it accept multiple media types */}
+          <source src="assets/background_video.mp4" type="video/mp4" />
+      </video>
       <div className="left">
         <div className="imgContainer">
           <img src="assets/man.png" alt />
