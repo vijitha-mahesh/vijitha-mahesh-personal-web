@@ -27,6 +27,11 @@ export const webPortfolio = [
     title:"MonkeyKingToken website",
     img:"assets/portfolio/web/MonkeyKing.png"
 },
+{
+    id:4,
+    title:"JungleShiba website",
+    img:"assets/portfolio/web/JungleShiba.png"
+},
 ];
 
 

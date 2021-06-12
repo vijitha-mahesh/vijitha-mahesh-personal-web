@@ -11,7 +11,7 @@ export default function Intro() {
       typeSpeed: 120,
       backDelay: 1600,
       backSpeed: 50,
-      strings: ["Developer", "Designer"],
+      strings: ["Full Stack Developer", "Designer"],
     });
   }, []);
 
