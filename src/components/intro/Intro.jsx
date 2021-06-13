@@ -33,6 +33,7 @@ export default function Intro() {
       <div className="right">
         <div className="wrapper">
           <div className="social">
+
             <a
               className="links"
               href="https://www.linkedin.com/in/vijitha-mahesh/"
@@ -42,11 +43,19 @@ export default function Intro() {
             </a>
             <a
               className="links"
+              href="https://github.com/vijitha-mahesh"
+              target="blank"
+            >
+              <img src="assets/github.png" alt="" />
+            </a>
+            <a
+              className="links"
               href="https://www.hackerrank.com/vijitha_mahesh"
               target="blank"
             >
               <img src="assets/hackerrank.png" alt="" />
             </a>
+
             <a
               className="links"
               href="https://mahesh-madurasinghe.medium.com/"
@@ -60,13 +69,6 @@ export default function Intro() {
               target="blank"
             >
               <img src="assets/stack_overflow.png" alt="" />
-            </a>
-            <a
-              className="links"
-              href="https://www.facebook.com/vijitha.madurasingha/"
-              target="blank"
-            >
-              <img src="assets/fb.png" alt="" />
             </a>
           </div>
           <h2>Hi There, I'm</h2>

@@ -1,5 +1,6 @@
 import { useState } from "react"
 import "./works.scss"
+import ProgressBar from 'react-bootstrap/ProgressBar';
 
 export default function Works() {
 
@@ -46,6 +47,8 @@ export default function Works() {
                                 <h2>{d.title}</h2>
                                 <p>{d.desc}</p>
                                 <span>Project</span>
+                                <ProgressBar animated now={45} />
+                                
                             </div>
                         </div>
                         <div className="right">
