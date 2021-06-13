@@ -2,7 +2,7 @@ export const featuredPortfolio = [
 {
     id:1,
     title:"Advanced wood smoothing machine",
-    img:"assets/Portfolio/Featured/Final_Product.PNG"
+    img:"assets/Portfolio/Featured/Final_Product.jpg"
 },
 {
     id:2,
@@ -15,22 +15,22 @@ export const webPortfolio = [
 {
     id:1,
     title:"Charleys food delivery system United arab Emirates",
-    img:"assets/portfolio/web/charleys.png"
+    img:"assets/portfolio/web/charleys.jpg"
 },
 {
     id:2,
     title:"WATERrhytm lifestyle web application",
-    img:"assets/portfolio/web/WATERrhythms.png"
+    img:"assets/portfolio/web/WATERrhythms.jpg"
 },
 {
     id:3,
     title:"MonkeyKingToken website",
-    img:"assets/portfolio/web/MonkeyKing.png"
+    img:"assets/portfolio/web/MonkeyKing.jpg"
 },
 {
     id:4,
     title:"JungleShiba website",
-    img:"assets/portfolio/web/JungleShiba.png"
+    img:"assets/portfolio/web/JungleShiba.jpg"
 },
 ];
 
@@ -69,7 +69,7 @@ export const uiPortfolio = [
 {
     id:5,
     title:"Image Edit Tool",
-    img:"assets/Portfolio/UiUx/imageEditTool.PNG"
+    img:"assets/Portfolio/UiUx/imageEditTool.jpg"
 },
 
 ];
@@ -83,6 +83,6 @@ export const graphicPortfolio = [
 {
     id:2,
     title:"IT faculty batch 18 2nd Anniversary Official Song (video edit)",
-    img:"assets/Portfolio/Graphic/BatchAnnivesery.png"
+    img:"assets/Portfolio/Graphic/BatchAnnivesery.jpg"
 }
 ];
